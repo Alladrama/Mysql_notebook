@@ -9,7 +9,7 @@
 
 ## 2.数据库与数据库管理系统
 ### 2.1数据库的相关概念
-**DB：数据库（Database）**
+**DB：数据库（Database）**                                                                                  
 即存储数据的仓库，本质是一个文件系统，它保存了一系列有组织的数据。
 **数据库管理系统(Database Management System)**
 是一种操纵和管理数据库的大型软件。用于建立、使用和维护数据库，对数据库进行统一管理和控制。用户通过数据库管理系统访问数据库中表内的数据。
@@ -22,6 +22,8 @@
 
 <img src="MySQL基础篇.assets/{A34BB244-C622-4842-8499-5B2CDFD9162F}.png" alt="image-{A34BB244-C622-4842-8499-5B2CDFD9162F}.png" style="float:left;" />
 
+### 2.3常见的数据库管理系统排名DBMS
+目前互联网上常见的数据库管理软件有Oracle、MySQL、MS SQL Server、DB2、PostgreSQL、Access、Sybase、Informix这几种。
 
 
 
